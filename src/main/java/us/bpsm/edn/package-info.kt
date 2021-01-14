@@ -3,4 +3,4 @@
  * needed to represent edn values. It also defines unchecked
  * exceptions that may be thrown by edn-java.
  */
-package us.bpsm.edn;
+package us.bpsm.edn
